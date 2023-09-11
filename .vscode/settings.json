@@ -1,0 +1,6 @@
+{
+    "dotnet-test-explorer.testProjectPath": "F:\\vehicle_task\\TestClasses\\VehicleMakeServiceTests.cs",
+    "dotnet-test-explorer.testArguments": [],
+    "dotnet-test-explorer.logLevel": "Error",
+    "dotnet-test-explorer.showCodeLens": true
+}
